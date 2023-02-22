@@ -5,8 +5,8 @@
   "main": "dist/app.js",
   "type": "module",
   "scripts": {
-    "start": "npm install && npm run build",
-    "build": "tsc",
+    "start": "npm start",
+    "build": "npm install && npm run build",
     "test": "jest",
     "prepare": "husky install",
     "-----": "---------CI----------",
