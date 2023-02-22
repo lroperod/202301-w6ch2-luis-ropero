@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agonsant/demo-express-configs.git"
+    "url": "git+https://github.com/lroperod/202301-w6ch2-luis-ropero.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agonsant/demo-express-configs/issues"
+    "url": "https://github.com/lroperod/202301-w6ch2-luis-ropero/issues"
   },
-  "homepage": "https://github.com/agonsant/demo-express-configs#readme",
+  "homepage": "https://github.com/lroperod/202301-w6ch2-luis-ropero#readme",
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@types/node": "^18.14.0",
