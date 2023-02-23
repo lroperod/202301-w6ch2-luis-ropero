@@ -1,6 +1,6 @@
 export interface Things {
   id: string;
-  subjectsLearned: string[];
+  subjectsLearned: string;
 }
 
 const things: Things[] = [];
